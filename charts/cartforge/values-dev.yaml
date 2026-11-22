@@ -1,0 +1,8 @@
+catalog:
+  image:
+    tag: "50de215"
+frontend:
+  image:
+    tag: "50de215"
+ingress:
+  host: dev.shop.local
