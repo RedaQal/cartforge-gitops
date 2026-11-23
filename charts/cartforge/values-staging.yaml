@@ -1,0 +1,8 @@
+catalog:
+  image:
+    tag: "unset"
+frontend:
+  image:
+    tag: "unset"
+ingress:
+  host: staging.shop.local
